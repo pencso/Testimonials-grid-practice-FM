@@ -178,7 +178,8 @@ li header h3 {
     main {
         max-width: inherit;
         width: clamp(60%, 1100px, 80%);
-        padding: 6rem 0;
+        padding: 10rem 0;
+        margin: 0 auto;
     }
 
     ul {
